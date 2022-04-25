@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyExamen</string>
+    <string name="pregunta">Primera pregunta.</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="question_1">2 + 2 = 5</string>
+    <string name="question_2">Un objeto es una instancia de clase?</string>
+    <string name="question_3">3+2*4 = 20 </string>
+    <string name="question_4"> Babbage es considerado padre de la computación?</string>
+    <string name="question_5">El abaco es un precursor de la computadora?</string>
+    <string name="cheat_button">Trampa!</string>
+
+</resources>
